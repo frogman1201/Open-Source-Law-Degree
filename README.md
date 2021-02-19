@@ -1,10 +1,13 @@
 # The Open Source Law Degree
 
-The aim of this repository is to provide a collection of freely-available resources for individuals to learn about the law of England and Wales. 
+The aim of this repository is to provide a collection of freely-available resources for individuals to learn about the law of England and Wales.
+
+This project was inspired by the [Open Source CS Degree](https://github.com/ForrestKnight/open-source-cs).
 
 If you find any linked resources that is no longer available, please raise an issue.
 
 ## START HERE - Legal Systems and Methods
+
 
 ## Constitutional and Administrative Law
 
@@ -24,3 +27,4 @@ If you find any linked resources that is no longer available, please raise an is
 
 ## Jurisprudence (Philosophy of Law)
 
+## Practical Legal Skills
