@@ -2,11 +2,15 @@
 
 _Version 0.1_
 
+## Introduction and Thanks
+
 The aim of this repository is to provide a collection of freely-available resources for individuals to learn about the law of England and Wales.
 
 This project was inspired by the [Open Source CS Degree](https://github.com/ForrestKnight/open-source-cs).
 
 If you find any linked resources that are no longer available, please raise an issue.
+
+## 0 - Legal Research
 
 ## 1 - Legal Systems and Methods
 
@@ -40,15 +44,12 @@ If you find any linked resources that are no longer available, please raise an i
 
 [Hierarchy of the courts, including tribunals](https://www.judiciary.uk/about-the-judiciary/the-justice-system/court-structure/) Though this may be confusing at first, you will pick up how the courts are structured though studying substantive areas of law.
 
-### Points for further research / critical thinking
-
-- How 
 
 ## 2 - Constitutional and Administrative Law
 
 ## 3 - Criminal Law
 
-## 4 - The Law of Contract
+## 4 - The Law of Contracts
 
 ## 5 - The Law of Torts
 
