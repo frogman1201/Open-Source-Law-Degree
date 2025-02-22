@@ -1,6 +1,4 @@
-# The Open Source Law Degree {Work in Progress)
-
-_Version 0.1_
+# The Open Source Law Degree
 
 ## Introduction and Thanks
 
@@ -9,6 +7,12 @@ The aim of this repository is to provide a collection of freely-available resour
 This project was inspired by the [Open Source CS Degree](https://github.com/ForrestKnight/open-source-cs).
 
 If you find any linked resources that are no longer available, please raise an issue.
+
+## Challenges with the project
+
+Studying law through freely-available resources offers two challenges: (1) access to key cases and (2) developing legal writing skills
+
+...
 
 ## 0 - Legal Research
 
