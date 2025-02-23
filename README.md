@@ -34,7 +34,7 @@ To provide some structure without being overly prescriptive, I have separated th
 
 * Contracts
 
-* Law of Torts
+* Torts
 
 ### 2nd Year
 
@@ -60,6 +60,11 @@ To provide some structure without being overly prescriptive, I have separated th
 
 * Restituion
 
+* Employment Law
+
+* Roman Law and Legal History
+
+* Legal Technology
 
 
 
