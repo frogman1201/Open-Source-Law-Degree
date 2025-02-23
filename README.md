@@ -18,29 +18,53 @@ Studying law through freely-available resources offers two challenges: (1) acces
 
 ## Overall Approach to the Open Source Law Degree
 
-[0 - Legal Research (START HERE)](00%20-%20Legal%20Research/Section%20Overview.md)
+The first section I recommend to start with is the Legal Research area. If you are new to studying law, it will provide you with the necessary tools and assumptions needed to understand and engage with the material in other areas.
 
-## 2 - Constitutional and Administrative Law
+* [Legal Research (START HERE)](00%20-%20Legal%20Research/Section%20Overview.md)
 
-## 3 - Criminal Law
+Once you have finished that section, you are free to start looking at different subjects. Typically speaking, most universities start with either Torts, Contracts or Admin Law, as those subjects tend to be easier to dig into for someone new to studying law.
 
-## 4 - The Law of Contracts
+To provide some structure without being overly prescriptive, I have separated the subjects into 1st, 2nd and 3rd year subjects. I would recommend that you look to complete most of the 1st year subjects before moving onto the 2nd year subjects and so on, but you are free to do otherwise.
 
-## 5 - The Law of Torts
+### 1st Year
 
-## 6 - Land Law
+* Constitutional and Administrative Law
 
-## 7 - Equity and Trusts
+* Criminal Law
 
-## 8 - EU Law
+* Contracts
 
-## 9 - International Law
+* Law of Torts
 
-## 10 - Jurisprudence (Philosophy of Law)
+### 2nd Year
 
-## 11 - Practical Legal Skills
+* Land Law
 
-## 12 - Other Disciplines
+* Equity and Trusts
+
+* EU Law
+
+* Dispute Resolution
+
+### 3rd Year
+
+* Public International Law
+
+* Private International Law (The Conflict of Laws)
+
+* Jurisprudence (The Philosophy of Law)
+
+* Evidence
+
+* Family Law
+
+* Restituion
+
+
+
+
+
+## Other Disciplines
 
 While the study of law is useful, we must remember that it does not exist in a vacuum. It is therefore useful to understand other disciplines to gain a wider appreciation of other fields and how they interact with the law.
 
