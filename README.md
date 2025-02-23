@@ -18,9 +18,7 @@ Studying law through freely-available resources offers two challenges: (1) acces
 
 ## Overall Approach to the Open Source Law Degree
 
-
-
-## 0 - Legal Research
+[0 - Legal Research (START HERE)](00 - Legal Research/Section Overview.md)
 
 ## 2 - Constitutional and Administrative Law
 
