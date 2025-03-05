@@ -18,31 +18,60 @@ Studying law through freely-available resources offers two challenges: (1) acces
 
 ## Overall Approach to the Open Source Law Degree
 
+The first section I recommend to start with is the Legal Research area. If you are new to studying law, it will provide you with the necessary tools and assumptions needed to understand and engage with the material in other areas.
+
+* [Legal Research (START HERE)](00%20-%20Legal%20Research/Section%20Overview.md)
+
+Once you have finished that section, you are free to start looking at different subjects. Typically speaking, most universities start with either Torts, Contracts or Admin Law, as those subjects tend to be easier to dig into for someone new to studying law.
+
+To provide some structure without being overly prescriptive, I have separated the subjects into 1st, 2nd and 3rd year subjects. I would recommend that you look to complete most of the 1st year subjects before moving onto the 2nd year subjects and so on, but you are free to do otherwise.
+
+### 1st Year
+
+* [Constitutional and Administrative Law](01%20-%20Constitutional%20Law/section-overview.md)
+
+* [Criminal Law](04%20-%20Criminal%20Law/section-overview.md)
+
+* [Contracts](02%20-%20Contract%20Law/section-overview.md)
+
+* [Torts](03%20-%20Torts/section-overview.md)
+
+### 2nd Year
+
+* Land Law
+
+* Equity and Trusts
+
+* EU Law
+
+* Dispute Resolution
+
+### 3rd Year
+
+* Public International Law
+
+* Private International Law (The Conflict of Laws)
+
+* Jurisprudence (The Philosophy of Law)
+
+* Evidence
+
+* Family Law
+
+* Restituion
+
+* Employment Law
+
+* Roman Law and Legal History
+
+* Intellectual Prooperty
+
+* Legal Technology
 
 
-## 0 - Legal Research
 
-## 2 - Constitutional and Administrative Law
 
-## 3 - Criminal Law
-
-## 4 - The Law of Contracts
-
-## 5 - The Law of Torts
-
-## 6 - Land Law
-
-## 7 - Equity and Trusts
-
-## 8 - EU Law
-
-## 9 - International Law
-
-## 10 - Jurisprudence (Philosophy of Law)
-
-## 11 - Practical Legal Skills
-
-## 12 - Other Disciplines
+## Other Disciplines
 
 While the study of law is useful, we must remember that it does not exist in a vacuum. It is therefore useful to understand other disciplines to gain a wider appreciation of other fields and how they interact with the law.
 
