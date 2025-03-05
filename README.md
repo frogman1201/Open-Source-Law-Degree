@@ -28,13 +28,13 @@ To provide some structure without being overly prescriptive, I have separated th
 
 ### 1st Year
 
-* [Constitutional and Administrative Law](01%20-%20Constitutional%20Law/Section%20Overview.md)
+* [Constitutional and Administrative Law](01%20-%20Constitutional%20Law/section-overview.md)
 
-* Criminal Law
+* [Criminal Law](04%20-%20Criminal%20Law/section-overview.md)
 
-* Contracts
+* [Contracts](03%20-%20Contract%20Law/section-overview.md)
 
-* Torts
+* [Torts](03%20-%20Torts/section-overview.md)
 
 ### 2nd Year
 
