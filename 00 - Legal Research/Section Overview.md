@@ -5,6 +5,16 @@ This is the first section that I recommend people to start with as it will give 
 
 The aims of this section are (1) to introduce you to the structure and hiearchy of the English and Welsh court systems, and (2) to introduce you to the ideas that underly how law works in England and Wales, focusing on concepts like stare decisis and ratio decidendi.
 
+## Sources of Law
+
+The legal system in England and Wales is a *common-law* legal system. A common-law legal system is a system that is characterised by relying, in part, on previous decisions of the court in deciding new cases. This differs from a *civil-law* legal system, which places little to no reliance on previous decisions.
+
+As such, one key legal research skill that a good lawyer requires is the ability to read cases.
+
+TASK - Read [this PDF](How%20to%20Read%20a%20Case.pdf) on how to read a case. Once you have read the short text, have a look at the following cases
+
+* INSERT CASES
+
 ### Recommended textbooks
 
 Though not essential to learning about key research methods and assumptions, it is highly recommended that you purchase at least one of the following textbooks. 
