@@ -64,6 +64,8 @@ To provide some structure without being overly prescriptive, I have separated th
 
 * Roman Law and Legal History
 
+* Intellectual Prooperty
+
 * Legal Technology
 
 
