@@ -32,7 +32,7 @@ To provide some structure without being overly prescriptive, I have separated th
 
 * [Criminal Law](04%20-%20Criminal%20Law/section-overview.md)
 
-* [Contracts](03%20-%20Contract%20Law/section-overview.md)
+* [Contracts](02%20-%20Contract%20Law/section-overview.md)
 
 * [Torts](03%20-%20Torts/section-overview.md)
 
